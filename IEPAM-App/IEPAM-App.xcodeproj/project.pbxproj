@@ -13,6 +13,30 @@
 		FB04396428E603080008D04E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB04396328E603080008D04E /* Preview Assets.xcassets */; };
 		FB04396628E603080008D04E /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB04396528E603080008D04E /* Persistence.swift */; };
 		FB04396928E603090008D04E /* IEPAM_App.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FB04396728E603090008D04E /* IEPAM_App.xcdatamodeld */; };
+		FB04397028E606480008D04E /* Registro.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB04396F28E606480008D04E /* Registro.swift */; };
+		FB04398028E60A3B0008D04E /* RecoletaAlt-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04397228E60A390008D04E /* RecoletaAlt-SemiBold.ttf */; };
+		FB04398128E60A3B0008D04E /* RecoletaAlt-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04397328E60A390008D04E /* RecoletaAlt-Black.ttf */; };
+		FB04398228E60A3B0008D04E /* Recoleta-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04397428E60A390008D04E /* Recoleta-SemiBold.ttf */; };
+		FB04398328E60A3B0008D04E /* RecoletaAlt-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04397528E60A390008D04E /* RecoletaAlt-Medium.ttf */; };
+		FB04398428E60A3B0008D04E /* RecoletaAlt-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04397628E60A3A0008D04E /* RecoletaAlt-Thin.ttf */; };
+		FB04398528E60A3B0008D04E /* Recoleta-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04397728E60A3A0008D04E /* Recoleta-Bold.ttf */; };
+		FB04398628E60A3B0008D04E /* Recoleta-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04397828E60A3A0008D04E /* Recoleta-Thin.ttf */; };
+		FB04398728E60A3B0008D04E /* RecoletaAlt-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04397928E60A3A0008D04E /* RecoletaAlt-Regular.ttf */; };
+		FB04398828E60A3B0008D04E /* Recoleta-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04397A28E60A3A0008D04E /* Recoleta-Medium.ttf */; };
+		FB04398928E60A3B0008D04E /* RecoletaAlt-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04397B28E60A3A0008D04E /* RecoletaAlt-Light.ttf */; };
+		FB04398A28E60A3B0008D04E /* RecoletaAlt-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04397C28E60A3B0008D04E /* RecoletaAlt-Bold.ttf */; };
+		FB04398B28E60A3B0008D04E /* Recoleta-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04397D28E60A3B0008D04E /* Recoleta-Regular.ttf */; };
+		FB04398C28E60A3B0008D04E /* Recoleta-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04397E28E60A3B0008D04E /* Recoleta-Black.ttf */; };
+		FB04398D28E60A3B0008D04E /* Recoleta-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04397F28E60A3B0008D04E /* Recoleta-Light.ttf */; };
+		FB04399A28E617760008D04E /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04399128E617740008D04E /* Inter-SemiBold.ttf */; };
+		FB04399B28E617760008D04E /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04399228E617740008D04E /* Inter-Bold.ttf */; };
+		FB04399C28E617760008D04E /* Inter-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04399328E617740008D04E /* Inter-Light.ttf */; };
+		FB04399D28E617760008D04E /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04399428E617750008D04E /* Inter-Regular.ttf */; };
+		FB04399E28E617760008D04E /* Inter-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04399528E617750008D04E /* Inter-ExtraBold.ttf */; };
+		FB04399F28E617760008D04E /* Inter-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04399628E617750008D04E /* Inter-Black.ttf */; };
+		FB0439A028E617760008D04E /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04399728E617750008D04E /* Inter-Medium.ttf */; };
+		FB0439A128E617760008D04E /* Inter-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04399828E617750008D04E /* Inter-Thin.ttf */; };
+		FB0439A228E617760008D04E /* Inter-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB04399928E617760008D04E /* Inter-ExtraLight.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +47,31 @@
 		FB04396328E603080008D04E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FB04396528E603080008D04E /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		FB04396828E603090008D04E /* IEPAM_App.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = IEPAM_App.xcdatamodel; sourceTree = "<group>"; };
+		FB04396F28E606480008D04E /* Registro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Registro.swift; sourceTree = "<group>"; };
+		FB04397228E60A390008D04E /* RecoletaAlt-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RecoletaAlt-SemiBold.ttf"; sourceTree = "<group>"; };
+		FB04397328E60A390008D04E /* RecoletaAlt-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RecoletaAlt-Black.ttf"; sourceTree = "<group>"; };
+		FB04397428E60A390008D04E /* Recoleta-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Recoleta-SemiBold.ttf"; sourceTree = "<group>"; };
+		FB04397528E60A390008D04E /* RecoletaAlt-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RecoletaAlt-Medium.ttf"; sourceTree = "<group>"; };
+		FB04397628E60A3A0008D04E /* RecoletaAlt-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RecoletaAlt-Thin.ttf"; sourceTree = "<group>"; };
+		FB04397728E60A3A0008D04E /* Recoleta-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Recoleta-Bold.ttf"; sourceTree = "<group>"; };
+		FB04397828E60A3A0008D04E /* Recoleta-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Recoleta-Thin.ttf"; sourceTree = "<group>"; };
+		FB04397928E60A3A0008D04E /* RecoletaAlt-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RecoletaAlt-Regular.ttf"; sourceTree = "<group>"; };
+		FB04397A28E60A3A0008D04E /* Recoleta-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Recoleta-Medium.ttf"; sourceTree = "<group>"; };
+		FB04397B28E60A3A0008D04E /* RecoletaAlt-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RecoletaAlt-Light.ttf"; sourceTree = "<group>"; };
+		FB04397C28E60A3B0008D04E /* RecoletaAlt-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RecoletaAlt-Bold.ttf"; sourceTree = "<group>"; };
+		FB04397D28E60A3B0008D04E /* Recoleta-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Recoleta-Regular.ttf"; sourceTree = "<group>"; };
+		FB04397E28E60A3B0008D04E /* Recoleta-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Recoleta-Black.ttf"; sourceTree = "<group>"; };
+		FB04397F28E60A3B0008D04E /* Recoleta-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Recoleta-Light.ttf"; sourceTree = "<group>"; };
+		FB04399028E60F6F0008D04E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		FB04399128E617740008D04E /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-SemiBold.ttf"; sourceTree = "<group>"; };
+		FB04399228E617740008D04E /* Inter-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Bold.ttf"; sourceTree = "<group>"; };
+		FB04399328E617740008D04E /* Inter-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Light.ttf"; sourceTree = "<group>"; };
+		FB04399428E617750008D04E /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Regular.ttf"; sourceTree = "<group>"; };
+		FB04399528E617750008D04E /* Inter-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraBold.ttf"; sourceTree = "<group>"; };
+		FB04399628E617750008D04E /* Inter-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Black.ttf"; sourceTree = "<group>"; };
+		FB04399728E617750008D04E /* Inter-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Medium.ttf"; sourceTree = "<group>"; };
+		FB04399828E617750008D04E /* Inter-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Thin.ttf"; sourceTree = "<group>"; };
+		FB04399928E617760008D04E /* Inter-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraLight.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,8 +104,11 @@
 		FB04395B28E603030008D04E /* IEPAM-App */ = {
 			isa = PBXGroup;
 			children = (
+				FB04399028E60F6F0008D04E /* Info.plist */,
+				FB04397128E609250008D04E /* Fonts */,
 				FB04395C28E603030008D04E /* IEPAM_AppApp.swift */,
 				FB04395E28E603030008D04E /* ContentView.swift */,
+				FB04396F28E606480008D04E /* Registro.swift */,
 				FB04396028E603080008D04E /* Assets.xcassets */,
 				FB04396528E603080008D04E /* Persistence.swift */,
 				FB04396728E603090008D04E /* IEPAM_App.xcdatamodeld */,
@@ -71,6 +123,36 @@
 				FB04396328E603080008D04E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FB04397128E609250008D04E /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				FB04399628E617750008D04E /* Inter-Black.ttf */,
+				FB04399228E617740008D04E /* Inter-Bold.ttf */,
+				FB04399528E617750008D04E /* Inter-ExtraBold.ttf */,
+				FB04399928E617760008D04E /* Inter-ExtraLight.ttf */,
+				FB04399328E617740008D04E /* Inter-Light.ttf */,
+				FB04399728E617750008D04E /* Inter-Medium.ttf */,
+				FB04399428E617750008D04E /* Inter-Regular.ttf */,
+				FB04399128E617740008D04E /* Inter-SemiBold.ttf */,
+				FB04399828E617750008D04E /* Inter-Thin.ttf */,
+				FB04397E28E60A3B0008D04E /* Recoleta-Black.ttf */,
+				FB04397728E60A3A0008D04E /* Recoleta-Bold.ttf */,
+				FB04397F28E60A3B0008D04E /* Recoleta-Light.ttf */,
+				FB04397A28E60A3A0008D04E /* Recoleta-Medium.ttf */,
+				FB04397D28E60A3B0008D04E /* Recoleta-Regular.ttf */,
+				FB04397428E60A390008D04E /* Recoleta-SemiBold.ttf */,
+				FB04397828E60A3A0008D04E /* Recoleta-Thin.ttf */,
+				FB04397328E60A390008D04E /* RecoletaAlt-Black.ttf */,
+				FB04397C28E60A3B0008D04E /* RecoletaAlt-Bold.ttf */,
+				FB04397B28E60A3A0008D04E /* RecoletaAlt-Light.ttf */,
+				FB04397528E60A390008D04E /* RecoletaAlt-Medium.ttf */,
+				FB04397928E60A3A0008D04E /* RecoletaAlt-Regular.ttf */,
+				FB04397228E60A390008D04E /* RecoletaAlt-SemiBold.ttf */,
+				FB04397628E60A3A0008D04E /* RecoletaAlt-Thin.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -131,8 +213,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB04399A28E617760008D04E /* Inter-SemiBold.ttf in Resources */,
+				FB04398A28E60A3B0008D04E /* RecoletaAlt-Bold.ttf in Resources */,
+				FB04398428E60A3B0008D04E /* RecoletaAlt-Thin.ttf in Resources */,
+				FB04398D28E60A3B0008D04E /* Recoleta-Light.ttf in Resources */,
+				FB04399C28E617760008D04E /* Inter-Light.ttf in Resources */,
+				FB04398228E60A3B0008D04E /* Recoleta-SemiBold.ttf in Resources */,
+				FB0439A228E617760008D04E /* Inter-ExtraLight.ttf in Resources */,
+				FB04399D28E617760008D04E /* Inter-Regular.ttf in Resources */,
+				FB04398728E60A3B0008D04E /* RecoletaAlt-Regular.ttf in Resources */,
+				FB04398528E60A3B0008D04E /* Recoleta-Bold.ttf in Resources */,
+				FB04398828E60A3B0008D04E /* Recoleta-Medium.ttf in Resources */,
+				FB04398628E60A3B0008D04E /* Recoleta-Thin.ttf in Resources */,
+				FB04398028E60A3B0008D04E /* RecoletaAlt-SemiBold.ttf in Resources */,
+				FB04398C28E60A3B0008D04E /* Recoleta-Black.ttf in Resources */,
+				FB04398328E60A3B0008D04E /* RecoletaAlt-Medium.ttf in Resources */,
+				FB04399B28E617760008D04E /* Inter-Bold.ttf in Resources */,
+				FB0439A028E617760008D04E /* Inter-Medium.ttf in Resources */,
 				FB04396428E603080008D04E /* Preview Assets.xcassets in Resources */,
+				FB04398B28E60A3B0008D04E /* Recoleta-Regular.ttf in Resources */,
+				FB04399F28E617760008D04E /* Inter-Black.ttf in Resources */,
+				FB04399E28E617760008D04E /* Inter-ExtraBold.ttf in Resources */,
+				FB0439A128E617760008D04E /* Inter-Thin.ttf in Resources */,
 				FB04396128E603080008D04E /* Assets.xcassets in Resources */,
+				FB04398928E60A3B0008D04E /* RecoletaAlt-Light.ttf in Resources */,
+				FB04398128E60A3B0008D04E /* RecoletaAlt-Black.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -146,6 +251,7 @@
 				FB04396628E603080008D04E /* Persistence.swift in Sources */,
 				FB04395F28E603030008D04E /* ContentView.swift in Sources */,
 				FB04396928E603090008D04E /* IEPAM_App.xcdatamodeld in Sources */,
+				FB04397028E606480008D04E /* Registro.swift in Sources */,
 				FB04395D28E603030008D04E /* IEPAM_AppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -277,9 +383,9 @@
 				DEVELOPMENT_ASSET_PATHS = "\"IEPAM-App/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "IEPAM-App/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -305,9 +411,9 @@
 				DEVELOPMENT_ASSET_PATHS = "\"IEPAM-App/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "IEPAM-App/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
