@@ -7,6 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		491326E128F47A3800C88141 /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491326E028F47A3800C88141 /* DataModel.swift */; };
+		491326E328F47C4100C88141 /* Dimensiones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491326E228F47C4100C88141 /* Dimensiones.swift */; };
+		491326E528F88F0C00C88141 /* Dimension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491326E428F88F0C00C88141 /* Dimension.swift */; };
+		491326E728F88F2E00C88141 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491326E628F88F2E00C88141 /* Test.swift */; };
+		491326E928F8902500C88141 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491326E828F8902500C88141 /* Question.swift */; };
+		491326EB28F8908F00C88141 /* TestRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491326EA28F8908F00C88141 /* TestRange.swift */; };
+		491326ED28F890D500C88141 /* Answer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491326EC28F890D500C88141 /* Answer.swift */; };
+		491326EF28F8915600C88141 /* PAM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491326EE28F8915600C88141 /* PAM.swift */; };
+		491326F128F89F0000C88141 /* dimension.json in Resources */ = {isa = PBXBuildFile; fileRef = 491326F028F89F0000C88141 /* dimension.json */; };
+		491326F328FAED6E00C88141 /* test.json in Resources */ = {isa = PBXBuildFile; fileRef = 491326F228FAED6E00C88141 /* test.json */; };
+		491326F528FAEF4000C88141 /* question.json in Resources */ = {isa = PBXBuildFile; fileRef = 491326F428FAEF4000C88141 /* question.json */; };
+		491326F728FAF04300C88141 /* answers.json in Resources */ = {isa = PBXBuildFile; fileRef = 491326F628FAF04300C88141 /* answers.json */; };
+		492E01CA28E7623200B2423C /* Inicio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 492E01C928E7623200B2423C /* Inicio.swift */; };
+		49497EC328EB3EC400E804A8 /* CompactHomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49497EC228EB3EC400E804A8 /* CompactHomeView.swift */; };
+		49497EC528EB701E00E804A8 /* Perfil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49497EC428EB701E00E804A8 /* Perfil.swift */; };
+		49497EC728EE481400E804A8 /* FichaMedica.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49497EC628EE481400E804A8 /* FichaMedica.swift */; };
+		49497EC928EE4D6900E804A8 /* Calendario.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49497EC828EE4D6900E804A8 /* Calendario.swift */; };
+		49497ECB28EE4DA400E804A8 /* CalendarioView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49497ECA28EE4DA400E804A8 /* CalendarioView.swift */; };
+		49497ECF28EE69A900E804A8 /* Eventos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49497ECE28EE69A900E804A8 /* Eventos.swift */; };
+		49497ED128EE69F200E804A8 /* ListaEventos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49497ED028EE69F200E804A8 /* ListaEventos.swift */; };
+		49497ED628EEBBC500E804A8 /* PruebasPreview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49497ED528EEBBC500E804A8 /* PruebasPreview.swift */; };
+		49497ED828EEC57C00E804A8 /* TestInicial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49497ED728EEC57C00E804A8 /* TestInicial.swift */; };
+		49497EDA28EEC69000E804A8 /* SeleccionPerfil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49497ED928EEC69000E804A8 /* SeleccionPerfil.swift */; };
+		49497EDD28EEC90100E804A8 /* Recordatorios.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49497EDC28EEC90100E804A8 /* Recordatorios.swift */; };
+		49497EDF28EF151400E804A8 /* PruebasPorRealizar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49497EDE28EF151400E804A8 /* PruebasPorRealizar.swift */; };
+		49497EE128EF1FD000E804A8 /* Deyesavage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49497EE028EF1FD000E804A8 /* Deyesavage.swift */; };
+		49497EE328EF294000E804A8 /* MMSE.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49497EE228EF294000E804A8 /* MMSE.swift */; };
+		494ECFDC28EA09E900C0E591 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 494ECFDB28EA09E900C0E591 /* Home.swift */; };
+		494ECFDE28EA0D8200C0E591 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 494ECFDD28EA0D8200C0E591 /* HomeView.swift */; };
 		FB04395D28E603030008D04E /* IEPAM_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB04395C28E603030008D04E /* IEPAM_AppApp.swift */; };
 		FB04395F28E603030008D04E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB04395E28E603030008D04E /* ContentView.swift */; };
 		FB04396128E603080008D04E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB04396028E603080008D04E /* Assets.xcassets */; };
@@ -40,6 +69,35 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		491326E028F47A3800C88141 /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
+		491326E228F47C4100C88141 /* Dimensiones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dimensiones.swift; sourceTree = "<group>"; };
+		491326E428F88F0C00C88141 /* Dimension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dimension.swift; sourceTree = "<group>"; };
+		491326E628F88F2E00C88141 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
+		491326E828F8902500C88141 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		491326EA28F8908F00C88141 /* TestRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestRange.swift; sourceTree = "<group>"; };
+		491326EC28F890D500C88141 /* Answer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Answer.swift; sourceTree = "<group>"; };
+		491326EE28F8915600C88141 /* PAM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PAM.swift; sourceTree = "<group>"; };
+		491326F028F89F0000C88141 /* dimension.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = dimension.json; sourceTree = "<group>"; };
+		491326F228FAED6E00C88141 /* test.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = test.json; sourceTree = "<group>"; };
+		491326F428FAEF4000C88141 /* question.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = question.json; sourceTree = "<group>"; };
+		491326F628FAF04300C88141 /* answers.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = answers.json; sourceTree = "<group>"; };
+		492E01C928E7623200B2423C /* Inicio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Inicio.swift; sourceTree = "<group>"; };
+		49497EC228EB3EC400E804A8 /* CompactHomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompactHomeView.swift; sourceTree = "<group>"; };
+		49497EC428EB701E00E804A8 /* Perfil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Perfil.swift; sourceTree = "<group>"; };
+		49497EC628EE481400E804A8 /* FichaMedica.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FichaMedica.swift; sourceTree = "<group>"; };
+		49497EC828EE4D6900E804A8 /* Calendario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calendario.swift; sourceTree = "<group>"; };
+		49497ECA28EE4DA400E804A8 /* CalendarioView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarioView.swift; sourceTree = "<group>"; };
+		49497ECE28EE69A900E804A8 /* Eventos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Eventos.swift; sourceTree = "<group>"; };
+		49497ED028EE69F200E804A8 /* ListaEventos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListaEventos.swift; sourceTree = "<group>"; };
+		49497ED528EEBBC500E804A8 /* PruebasPreview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PruebasPreview.swift; sourceTree = "<group>"; };
+		49497ED728EEC57C00E804A8 /* TestInicial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestInicial.swift; sourceTree = "<group>"; };
+		49497ED928EEC69000E804A8 /* SeleccionPerfil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeleccionPerfil.swift; sourceTree = "<group>"; };
+		49497EDC28EEC90100E804A8 /* Recordatorios.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recordatorios.swift; sourceTree = "<group>"; };
+		49497EDE28EF151400E804A8 /* PruebasPorRealizar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PruebasPorRealizar.swift; sourceTree = "<group>"; };
+		49497EE028EF1FD000E804A8 /* Deyesavage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deyesavage.swift; sourceTree = "<group>"; };
+		49497EE228EF294000E804A8 /* MMSE.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MMSE.swift; sourceTree = "<group>"; };
+		494ECFDB28EA09E900C0E591 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		494ECFDD28EA0D8200C0E591 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		FB04395928E603030008D04E /* IEPAM-App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IEPAM-App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB04395C28E603030008D04E /* IEPAM_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IEPAM_AppApp.swift; sourceTree = "<group>"; };
 		FB04395E28E603030008D04E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -85,6 +143,74 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		491326DF28F479FB00C88141 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				491326E028F47A3800C88141 /* DataModel.swift */,
+				491326E428F88F0C00C88141 /* Dimension.swift */,
+				491326E628F88F2E00C88141 /* Test.swift */,
+				491326E828F8902500C88141 /* Question.swift */,
+				491326EA28F8908F00C88141 /* TestRange.swift */,
+				491326EC28F890D500C88141 /* Answer.swift */,
+				491326EE28F8915600C88141 /* PAM.swift */,
+				491326F028F89F0000C88141 /* dimension.json */,
+				491326F228FAED6E00C88141 /* test.json */,
+				491326F628FAF04300C88141 /* answers.json */,
+				491326F428FAEF4000C88141 /* question.json */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		49497EC128EB3E5E00E804A8 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				494ECFDD28EA0D8200C0E591 /* HomeView.swift */,
+				49497EC228EB3EC400E804A8 /* CompactHomeView.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		49497ECC28EE695000E804A8 /* Calendario */ = {
+			isa = PBXGroup;
+			children = (
+				49497ECA28EE4DA400E804A8 /* CalendarioView.swift */,
+				49497EC828EE4D6900E804A8 /* Calendario.swift */,
+			);
+			path = Calendario;
+			sourceTree = "<group>";
+		};
+		49497ECD28EE698700E804A8 /* Eventos */ = {
+			isa = PBXGroup;
+			children = (
+				49497ECE28EE69A900E804A8 /* Eventos.swift */,
+				49497ED028EE69F200E804A8 /* ListaEventos.swift */,
+			);
+			path = Eventos;
+			sourceTree = "<group>";
+		};
+		49497ED428EEBBA800E804A8 /* Pruebas */ = {
+			isa = PBXGroup;
+			children = (
+				49497ED528EEBBC500E804A8 /* PruebasPreview.swift */,
+				49497EDE28EF151400E804A8 /* PruebasPorRealizar.swift */,
+				49497EE028EF1FD000E804A8 /* Deyesavage.swift */,
+				49497EE228EF294000E804A8 /* MMSE.swift */,
+				491326E228F47C4100C88141 /* Dimensiones.swift */,
+			);
+			path = Pruebas;
+			sourceTree = "<group>";
+		};
+		49497EDB28EEC6A000E804A8 /* Inicial */ = {
+			isa = PBXGroup;
+			children = (
+				FB04396F28E606480008D04E /* Registro.swift */,
+				492E01C928E7623200B2423C /* Inicio.swift */,
+				49497ED728EEC57C00E804A8 /* TestInicial.swift */,
+				49497ED928EEC69000E804A8 /* SeleccionPerfil.swift */,
+			);
+			path = Inicial;
+			sourceTree = "<group>";
+		};
 		FB04395028E603030008D04E = {
 			isa = PBXGroup;
 			children = (
@@ -104,15 +230,24 @@
 		FB04395B28E603030008D04E /* IEPAM-App */ = {
 			isa = PBXGroup;
 			children = (
+				FB04396028E603080008D04E /* Assets.xcassets */,
+				FB04396228E603080008D04E /* Preview Content */,
 				FB04399028E60F6F0008D04E /* Info.plist */,
 				FB04397128E609250008D04E /* Fonts */,
+				491326DF28F479FB00C88141 /* Models */,
 				FB04395C28E603030008D04E /* IEPAM_AppApp.swift */,
 				FB04395E28E603030008D04E /* ContentView.swift */,
-				FB04396F28E606480008D04E /* Registro.swift */,
-				FB04396028E603080008D04E /* Assets.xcassets */,
 				FB04396528E603080008D04E /* Persistence.swift */,
+				494ECFDB28EA09E900C0E591 /* Home.swift */,
+				49497EDB28EEC6A000E804A8 /* Inicial */,
+				49497EC128EB3E5E00E804A8 /* Home */,
+				49497EDC28EEC90100E804A8 /* Recordatorios.swift */,
+				49497ED428EEBBA800E804A8 /* Pruebas */,
+				49497ECC28EE695000E804A8 /* Calendario */,
+				49497EC628EE481400E804A8 /* FichaMedica.swift */,
 				FB04396728E603090008D04E /* IEPAM_App.xcdatamodeld */,
-				FB04396228E603080008D04E /* Preview Content */,
+				49497EC428EB701E00E804A8 /* Perfil.swift */,
+				49497ECD28EE698700E804A8 /* Eventos */,
 			);
 			path = "IEPAM-App";
 			sourceTree = "<group>";
@@ -218,9 +353,11 @@
 				FB04398428E60A3B0008D04E /* RecoletaAlt-Thin.ttf in Resources */,
 				FB04398D28E60A3B0008D04E /* Recoleta-Light.ttf in Resources */,
 				FB04399C28E617760008D04E /* Inter-Light.ttf in Resources */,
+				491326F528FAEF4000C88141 /* question.json in Resources */,
 				FB04398228E60A3B0008D04E /* Recoleta-SemiBold.ttf in Resources */,
 				FB0439A228E617760008D04E /* Inter-ExtraLight.ttf in Resources */,
 				FB04399D28E617760008D04E /* Inter-Regular.ttf in Resources */,
+				491326F328FAED6E00C88141 /* test.json in Resources */,
 				FB04398728E60A3B0008D04E /* RecoletaAlt-Regular.ttf in Resources */,
 				FB04398528E60A3B0008D04E /* Recoleta-Bold.ttf in Resources */,
 				FB04398828E60A3B0008D04E /* Recoleta-Medium.ttf in Resources */,
@@ -232,11 +369,13 @@
 				FB0439A028E617760008D04E /* Inter-Medium.ttf in Resources */,
 				FB04396428E603080008D04E /* Preview Assets.xcassets in Resources */,
 				FB04398B28E60A3B0008D04E /* Recoleta-Regular.ttf in Resources */,
+				491326F728FAF04300C88141 /* answers.json in Resources */,
 				FB04399F28E617760008D04E /* Inter-Black.ttf in Resources */,
 				FB04399E28E617760008D04E /* Inter-ExtraBold.ttf in Resources */,
 				FB0439A128E617760008D04E /* Inter-Thin.ttf in Resources */,
 				FB04396128E603080008D04E /* Assets.xcassets in Resources */,
 				FB04398928E60A3B0008D04E /* RecoletaAlt-Light.ttf in Resources */,
+				491326F128F89F0000C88141 /* dimension.json in Resources */,
 				FB04398128E60A3B0008D04E /* RecoletaAlt-Black.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -248,10 +387,35 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				494ECFDE28EA0D8200C0E591 /* HomeView.swift in Sources */,
 				FB04396628E603080008D04E /* Persistence.swift in Sources */,
+				49497EDF28EF151400E804A8 /* PruebasPorRealizar.swift in Sources */,
+				49497EE128EF1FD000E804A8 /* Deyesavage.swift in Sources */,
 				FB04395F28E603030008D04E /* ContentView.swift in Sources */,
+				491326E928F8902500C88141 /* Question.swift in Sources */,
+				491326E128F47A3800C88141 /* DataModel.swift in Sources */,
+				49497EDA28EEC69000E804A8 /* SeleccionPerfil.swift in Sources */,
+				49497EE328EF294000E804A8 /* MMSE.swift in Sources */,
+				49497EC328EB3EC400E804A8 /* CompactHomeView.swift in Sources */,
+				49497EC928EE4D6900E804A8 /* Calendario.swift in Sources */,
+				49497ED828EEC57C00E804A8 /* TestInicial.swift in Sources */,
+				492E01CA28E7623200B2423C /* Inicio.swift in Sources */,
+				491326EB28F8908F00C88141 /* TestRange.swift in Sources */,
 				FB04396928E603090008D04E /* IEPAM_App.xcdatamodeld in Sources */,
+				49497EDD28EEC90100E804A8 /* Recordatorios.swift in Sources */,
+				491326EF28F8915600C88141 /* PAM.swift in Sources */,
 				FB04397028E606480008D04E /* Registro.swift in Sources */,
+				49497EC528EB701E00E804A8 /* Perfil.swift in Sources */,
+				491326E328F47C4100C88141 /* Dimensiones.swift in Sources */,
+				49497EC728EE481400E804A8 /* FichaMedica.swift in Sources */,
+				49497ED128EE69F200E804A8 /* ListaEventos.swift in Sources */,
+				491326E728F88F2E00C88141 /* Test.swift in Sources */,
+				49497ECF28EE69A900E804A8 /* Eventos.swift in Sources */,
+				49497ECB28EE4DA400E804A8 /* CalendarioView.swift in Sources */,
+				491326E528F88F0C00C88141 /* Dimension.swift in Sources */,
+				49497ED628EEBBC500E804A8 /* PruebasPreview.swift in Sources */,
+				491326ED28F890D500C88141 /* Answer.swift in Sources */,
+				494ECFDC28EA09E900C0E591 /* Home.swift in Sources */,
 				FB04395D28E603030008D04E /* IEPAM_AppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

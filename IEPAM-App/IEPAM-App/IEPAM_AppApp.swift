@@ -13,7 +13,7 @@ struct IEPAM_AppApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Inicio()
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }
